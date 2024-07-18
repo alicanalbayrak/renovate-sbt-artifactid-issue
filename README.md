@@ -1,0 +1,1 @@
+# renovate-sbt-artifactid-issue
